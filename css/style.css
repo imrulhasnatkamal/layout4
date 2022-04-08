@@ -1,0 +1,104 @@
+h2{
+    margin: 0;
+}
+.container{
+    overflow: hidden;
+}
+.logo{
+    background-color: gray;
+    width: 60%;
+    float: left;
+    height: 100px;
+}
+.nav{
+    background-color: gray;
+    width: 40%;
+    float: right;
+    height: 100px;
+}
+.container2{
+    margin-top: 10px;
+    overflow: hidden;
+}
+.box{
+    background-color: gray;
+    width: 23%;
+    float: left;
+    height: 200px;
+}
+.one{
+
+}
+.two{
+    margin-left: 41px;
+}
+.three{
+    margin-left: 41px;
+}
+.four{
+    margin-left: 41px;
+}
+.wrapper{
+    margin-top: 10px;
+    overflow: hidden;
+}
+.b{
+    background-color: gray;
+    width: 23%;
+    float: left;
+    height: 200px;
+}
+.tw{
+    margin-left: 41px;
+}
+.thr{
+    margin-left: 41px;
+}
+.for{
+    margin-left: 41px;
+}
+
+.wrapper1{
+    margin-top: 10px;
+    overflow: hidden;
+}
+.b1{
+    background-color: gray;
+    width: 23%;
+    float: left;
+    height: 200px;
+}
+.tw2{
+    margin-left: 41px;
+}
+.thr3{
+    margin-left: 41px;
+}
+.for4{
+    margin-left: 41px;
+}
+.wrapper2{
+    margin-top: 10px;
+    overflow: hidden;
+}
+.b2{
+    background-color: gray;
+    width: 32.65%;
+    float: left;
+    height: 200px;
+}
+.tw3{
+    margin-left: 15px;
+}
+.thr4{
+    margin-left: 15px;
+}
+.for5{
+    margin-left: 15px;
+}
+.footer{
+    background-color: gray;
+    margin-top: 10px;
+    height: 100px;
+    text-align: center;
+}
